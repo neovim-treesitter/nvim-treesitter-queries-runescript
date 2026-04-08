@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/2004Scape/tree-sitter-runescript",
-  "semver": false,
   "parser_version": "cf85bbd5da0c5ad243301d889c7f84d790a4cae4",
-  "lang": "runescript"
+  "lang": "runescript",
+  "url": "https://github.com/2004Scape/tree-sitter-runescript",
+  "semver": false
 }
